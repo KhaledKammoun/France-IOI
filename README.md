@@ -1,4 +1,4 @@
-#France IOI-Programs
+#France-IOI-Programs
 Welcome to the France IOI Programs repository!
 
 This repository contains programs for France IOI's levels 1, 2, and 3.
