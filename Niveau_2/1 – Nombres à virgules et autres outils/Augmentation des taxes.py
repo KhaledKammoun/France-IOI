@@ -1,0 +1,5 @@
+t1=float(input())
+t2=float(input())
+prix=float(input())
+prix_hors=prix/((t1/100)+1)
+print(round(prix_hors*((t2/100)+1),2))
