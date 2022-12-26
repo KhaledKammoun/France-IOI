@@ -6,14 +6,17 @@ The programs are organized by level and topic.
 Programs by Level
 
 Level 1 programs:
+
 Program 1 - Topic
 Program 2 - Topic
 
 Level 2 programs:
+
 Program 3 - Topic
 Program 4 - Topic
 
 Level 3 programs:
+
 Program 5 - Topic
 Program 6 - Topic
 
