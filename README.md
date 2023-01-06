@@ -24,6 +24,7 @@ Level 2 programs:
 Level 3 programs:
 
 Déblocage du niveau 3
+
 3 – Gestion de caractères
 
 4 – Opérations avancées sur les chaînes de caractères
