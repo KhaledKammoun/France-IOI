@@ -8,23 +8,32 @@ Programs by Level
 Level 1 programs:
 
 4 – Lecture de l'entrée
+
 5 – Tests et conditions
 
 Level 2 programs:
 
 1 – Nombres à virgules et autres outils
+
 2 – Découverte des tableaux
-3 – Chaînes de caractères	14	problèmes	2	résolus
+
+3 – Chaînes de caractères
+
 4 – Fonctions
 
 Level 3 programs:
 
 Déblocage du niveau 3
 3 – Gestion de caractères
+
 4 – Opérations avancées sur les chaînes de caractères
+
 5 – Tableaux avancés
+
 6 – Tris simples
+
 7 – Structures de données élémentaires et Balayages
+
 8 – Récursivité
 
 Contributing
